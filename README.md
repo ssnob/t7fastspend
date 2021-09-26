@@ -1,6 +1,6 @@
 # t7fastspend
 Quickly spend your vials and cryptokeys for Black Ops 3!
-![plot](./fast spender.png)
+![Alt text](https://github.com/ssnob/t7fastspend/blob/main/fast%20spender.png?raw=true "Title")
 
 # How
 * Download the [Release](https://)
