@@ -1,5 +1,5 @@
 # t7fastspend
-Quickly spend your vials and cryptokeys for Black Ops 3!
+Quickly spend your Vials and Cryptokeys for Black Ops 3!
 
 ![Alt text](https://github.com/ssnob/t7fastspend/blob/main/fast%20spender.png?raw=true)
 
