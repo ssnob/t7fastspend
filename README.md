@@ -5,8 +5,10 @@ Quickly spend your Vials and Cryptokeys for Black Ops 3!
 
 # How
 * Download the [Release](https://github.com/ssnob/t7fastspend/releases/download/v1/Fast.Spender.zip)
-* Extract ALL files to a folder
-* Run "fastspender.exe"
+* Run the exe
 
 # Saftey
 Use at your own risk, I am not responsable for any bans using this tool, however the chances of a ban are Extremely low due to TAC (Treyarch Anti Cheat) being disabled, VAC (Valve Anti Cheat) is still active but this tool is not picked up by it.
+
+# Code?
+This will stay closed source as of now.
