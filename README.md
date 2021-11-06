@@ -4,7 +4,6 @@ Quickly spend your Vials and Cryptokeys for Black Ops 3!
 ![Alt text](https://github.com/ssnob/t7fastspend/blob/main/fast%20spender.png?raw=true)
 
 # How
-* Download the [Release](https://github.com/ssnob/t7fastspend/releases/download/v1/Fast.Spender.zip)
 * Run the exe
 
 # Saftey
