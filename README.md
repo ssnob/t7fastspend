@@ -1,13 +1,5 @@
-# t7fastspend
-Quickly spend your Vials and Cryptokeys for Black Ops 3!
+# Archive
 
-![Alt text](https://github.com/ssnob/t7fastspend/blob/main/fast%20spender.png?raw=true)
+This tool has been Archived and all releases have been removed.
 
-# How
-* Run the exe
-
-# Saftey
-Use at your own risk, I am not responsable for any bans using this tool, however the chances of a ban are Extremely low due to TAC (Treyarch Anti Cheat) being disabled, VAC (Valve Anti Cheat) is still active but this tool is not picked up by it.
-
-# Code?
-This will stay closed source as of now.
+* I will revamp this tool sometime in the future *
